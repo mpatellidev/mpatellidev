@@ -57,7 +57,7 @@ Sou **Murilo Patelli**, estudante de **Sistemas de Informação na USP**, movido
   </tr>
 </table>
 
-##🏛️ Experiências e entidades
+## Experiências e entidades
 
 -  **Síntese Jr** · Analista de Dados (Empresa Júnior)
 -  **Hype Dados & IA** · Grupo de dados e inteligência artificial
