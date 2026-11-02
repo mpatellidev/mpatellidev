@@ -52,7 +52,7 @@ Sou **Murilo Patelli**, estudante de **Sistemas de Informação na USP**, movido
     <td width="33%" valign="top">
       <h3> Risco de Churn · SimonFlix</h3>
       <p>Análise de dados com <b>Random Forest</b> em diversos notebooks, que gerou insights e um relatório analítico para a SimonFlix.</p>
-      <a href="https://github.com/Sintese-Jr/Projeto-Trainee-II-Dados-2026.1">Ver repositório →</a>
+      <a href="https://github.com/mpatellidev/churn-simonflix-ML">Ver repositório →</a>
     </td>
   </tr>
 </table>
